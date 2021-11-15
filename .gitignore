@@ -5,6 +5,7 @@
 .idea
 **/node_modules/*
 **/.firebaserc
+ganadorg-750fc829c4d7.json
 
 ### Firebase Patch ###
 .runtimeconfig.json
