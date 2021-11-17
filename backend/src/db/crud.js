@@ -94,9 +94,9 @@ actualizarSemovienteTotalmente("DlShLjhTbyKD0I1eGgCu", semoviente, (status) =>{
 })
  */
 // Para eliminar un semovientes
-borrarSemoviente("DlShLjhTbyKD0I1eGgCu", (status) =>{
+/* borrarSemoviente("DlShLjhTbyKD0I1eGgCu", (status) =>{
     console.log(status)
-})
+}) */
 
 
 
