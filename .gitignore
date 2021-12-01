@@ -1,6 +1,29 @@
 # Created by https://www.toptal.com/developers/gitignore/api/firebase,node,react,windows,macos,linux,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=firebase,node,react,windows,macos,linux,visualstudiocode
 
+
+# dependencies
+frontend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
+
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
 ### Firebase ###
 .idea
 **/node_modules/*
